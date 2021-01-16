@@ -1,10 +1,10 @@
 # Nagrro-Angular-Assignment:
 
 * Yellow Background for email
-<img src="images/screenshot1.png" width="250">
+<img src="images/screenshot1.png" width="550">
 
 * Listing issues in a Github Repository of a user.
-<img src="images/screenshot2.png" width="250">
+<img src="images/screenshot2.png" width="550">
 
 
 ## Getting Started
